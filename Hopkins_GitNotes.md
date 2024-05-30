@@ -14,6 +14,10 @@
 3. In terminal, type "git clone" and paste the URL next to "git clone"
 4. The repository has now been saved locally
 
+### General Git Commands
+* "cd .." moves you back a directory level. For example: If I am in cd Home/User/Documents and want to get back to cd Home/User you will need to use the cd .. command.
+* "ls" lists the working directory and staging area you are currently working within.
+
 ## Git Sources
 * [Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 * [ASRL Foundations](https://github.com/ASRL/Foundations)
